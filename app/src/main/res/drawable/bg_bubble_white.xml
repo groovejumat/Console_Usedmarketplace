@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--해당 파일은 리사이클러뷰에서 작성자 그리고 상대방을 구분 할 수 있도록 해주는 기능을 합니다.-->
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- view background color -->
+    <solid
+        android:color="@android:color/secondary_text_dark" >
+    </solid>
+
+
+    <!-- If you want to add some padding -->
+    <padding
+        android:left="10dp"
+        android:top="4dp"
+        android:right="10dp"
+        android:bottom="4dp"    >
+    </padding>
+
+    <!-- Here is the corner radius -->
+    <corners
+        android:radius="5dp"   >
+    </corners>
+
+</shape>

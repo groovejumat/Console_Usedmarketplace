@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/action_productlist"
+
+            android:icon="@drawable/ic_featured_play_list_black_24dp"
+            android:title="제품 리스트"/>
+
+        <item
+            android:id="@+id/action_write"
+            android:icon="@drawable/ic_edit_black_24dp"
+            android:title="글쓰기"/>
+
+        <item
+            android:id="@+id/action_chat"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="구매채팅"/>
+
+        <item
+            android:id="@+id/action_sellchat"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="판매채팅"/>
+
+        <item
+            android:id="@+id/action_trading"
+            android:icon="@drawable/ic_import_export_black_24dp"
+            android:title="거래진행"/>
+</menu>

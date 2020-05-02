@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_array">
+        <item>게임기</item>
+        <item>소프트웨어</item>
+        <item>게임 주변기기</item>
+        <item>종합 제품</item>
+        <item>기타</item>
+    </string-array>
+</resources>

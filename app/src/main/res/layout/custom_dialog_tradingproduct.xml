@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp">
+
+    <TextView
+        android:id="@+id/textviewLogo"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
+        android:text="제품거래 상태 확인"
+        android:textColor="#000000"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tradingproductprogress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="거래상태"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textviewPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="주소지정보"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#0B0000" />
+
+    <TextView
+        android:id="@+id/namecontactView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="주소지정보"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#010000" />
+
+    <TextView
+        android:id="@+id/postalAddressView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:text="주소지정보"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#010000" />
+
+    <TextView
+        android:id="@+id/AddressView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="주소지정보"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#010000" />
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="제품상태변경" />
+
+</LinearLayout>

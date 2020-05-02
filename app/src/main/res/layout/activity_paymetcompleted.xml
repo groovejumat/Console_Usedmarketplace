@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="제품의 결제가 완료되었습니다." />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="판매자에게 제품 구매 메시지를 보냈습니다. 제품 수령이 완료 될 때까지 앱에서 결제금액을 보유하고 있습니다. 판매자 분께서 구매확정을 완료하시게 되면, 거래가 완전히 완료 됩니다. " />
+</LinearLayout>

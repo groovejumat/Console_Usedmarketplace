@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "206874598351",
+    "firebase_url": "https://myfirstchat-176e4.firebaseio.com",
+    "project_id": "myfirstchat-176e4",
+    "storage_bucket": "myfirstchat-176e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206874598351:android:83f97983f17772097790ba",
+        "android_client_info": {
+          "package_name": "org.techtown.chatapplicationno1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206874598351-4sot4djdi994n86k7c04n2c9iit4k50o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANrbnpVqX8WilGSr9FRU5sS_EzYpgtjmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206874598351-4sot4djdi994n86k7c04n2c9iit4k50o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
